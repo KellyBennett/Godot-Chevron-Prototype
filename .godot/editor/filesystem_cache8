@@ -1,0 +1,13 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1738446474
+icon.webp::CompressedTexture2D::3626017087650301524::1738168413::1738446474::1::::<><>::
+paddle.png::CompressedTexture2D::8668442055447141068::1738168413::1738446474::1::::<><>::
+pong.tscn::PackedScene::654744092352024972::1738446298::0::1::::<><>::res://logic/ball.gd<>res://logic/chevron.gd
+README.md::TextFile::-1::1738168413::0::1::::<><>::
+separator.png::CompressedTexture2D::8365776070012227721::1738168413::1738446474::1::::<><>::
+::res://input/::1738442202
+input_handler.gd::GDScript::-1::1738442202::0::1::::<>RefCounted<>::
+::res://logic/::1738446296
+ball.gd::GDScript::-1::1738444210::0::1::::<>RigidBody2D<>::
+chevron.gd::GDScript::-1::1738446296::0::1::::<>RigidBody2D<>::
+paddle.gd::GDScript::-1::1738435640::0::1::::<>Area2D<>::
